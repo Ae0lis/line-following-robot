@@ -1,7 +1,7 @@
 # Autonomous Line-Following Robot
 
 A custom-PCB line-following robot built for the EE 201 capstone at the University
-of Washington — a one-month, build-from-scratch competition to design the fastest,
+of Washington. This was a one-month competition to design the fastest,
 most accurate line follower in the class.
 
 **Full writeup:** https://ae0lis.github.io/projects/line_robot/
