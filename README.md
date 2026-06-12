@@ -8,7 +8,7 @@ most accurate line follower in the class.
 
 ![The finished robot](images/line_robot-hero.jpg)
 
-![Block diagram](images/line_robot-block.jpg)
+![Block diagram](diagrams/line_robot-block.png)
 
 ## Overview
 
