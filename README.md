@@ -8,14 +8,14 @@ most accurate line follower in the class.
 
 ![The finished robot](images/line_robot-hero.jpg)
 
-![Block diagram](diagrams/line_robot-block.png)
-
 ## Overview
 
 The robot follows a black line on a light surface using a custom seven-channel
 photoresistor array, processes the readings through a PID controller on an Arduino,
 and steers by driving its two motors at differing speeds. Built by a three-person
 team over one month; completed the full competition track.
+
+![Block diagram](diagrams/line_robot-block.png)
 
 ## Repository structure
 
