@@ -8,6 +8,8 @@ most accurate line follower in the class.
 
 ![The finished robot](images/line_robot-hero.jpg)
 
+![Block diagram](images/line_robot-block.jpg)
+
 ## Overview
 
 The robot follows a black line on a light surface using a custom seven-channel
@@ -24,6 +26,7 @@ team over one month; completed the full competition track.
 | `firmware/` | Arduino control code (see note below) |
 | `renders/` | Exported schematic and 3D board renders |
 | `images/` | Photos of the assembled robot |
+| `diagrams/` | Diagrams for explaining the robot's systems |
 
 ## The sensor board
 
